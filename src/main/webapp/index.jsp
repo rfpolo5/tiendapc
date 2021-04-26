@@ -33,7 +33,7 @@
 
 		<div class="categorias">
 			<div class="decoracion">
-				<a href="inicio.html" id="text1">INICIO</a>
+				<a href="#inicio" id="text1">INICIO</a>
 				<a href="#portatiles" id="text2">PORTATILES</a>
 				<a href="#telefonos" id="text3">TELEFONOS</a>
 				<a href="#relojes" id="text4">RELOJES</a>
@@ -43,8 +43,8 @@
 				<ul class="nav">
 					<li><a href="">PRODUCTO</a>
 						<ul class="desplegable">
-							<li><a href="">Consula  </a></li>
-							<li><a href=""> Crear </a></li>
+							<li><a href="">CONSULTA  </a></li>
+							<li><a href=""> CONSULTA </a></li>
 						</ul>
 					</li>
 				</ul>
@@ -67,7 +67,7 @@
 
 					<div class="portatil1">
 						<img src="img/portatiles/195122163150_1__1_1.png" id="p1"></img>
-						<strong>PORTATILHP1 - 8 GB RAM - DISCO SOLIDO 500 GB</strong>
+						<strong>PORTATILHP1 - 8 GB RAM - DISCO SOLIDO 500 GB  </strong>
 						<button type="button">agregar</button>
 					</div>
 
