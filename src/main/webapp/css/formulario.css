@@ -1,0 +1,133 @@
+/*INSERTAR*/
+.frominsert{
+
+    border: 3px solid #e33255;
+    position: absolute;
+    width: 50%;
+    height: 75%;
+    margin-left: 23%;
+    margin-top: 0%;
+
+}
+
+.frominsert select{
+
+    width: 94%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    margin: 10px 12px;
+}
+.frominsert  input[type=text]{
+
+    width: 90%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    margin: 10px 12px;
+
+}
+.frominsert input[type=submit]{
+
+    width: 15%;
+    padding: 12px;
+    border: 1px solid #ccc; 
+    border-radius: 4px;
+    resize: vertical;
+    margin: 10px 40%;
+    color: #e33255;
+}
+.frominsert input[type=submit]:hover{
+    background:#e33255;
+    border-color: #10110b;
+    color: #10110b;
+    cursor: pointer;
+
+}
+
+.frominsert label{
+
+    color: #e33255; 
+    text-align: left;
+    text-decoration: solid;
+    position: relative;
+    font-size: 18px;
+    margin: 10px 12px;
+}
+
+
+.tituloproducto {
+
+    background: #10110b;
+    color: white;
+    padding:1%;
+    text-align: center;
+    margin-bottom: 10px;
+
+}
+.tituloproducto strong{
+    width:10%;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+
+.tituloproducto hr{
+
+    background: #e33255 ;
+    border-color: #e33255;
+}
+
+
+/*UPDATE*/
+
+.fromconsult{
+
+
+    position: absolute;
+    width: 70%;
+    height: 50%;
+    margin-left: 1%;
+    margin-top: 3%;
+
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+.form1 td, th {
+    border: 1px solid #10110b;
+    text-align: left;
+    padding: 8px;
+    
+}
+
+.form1 input[type="text"]{
+    height: 20px;
+    background: white;
+}
+
+.form1 tr {
+    background-color: #e33255;
+}
+
+#celda{
+    background: white;
+}
+
+#eliminar{
+
+    text-decoration: none;
+    color: white;
+}
+
+.actulizar{
+    text-decoration: none;
+    background: white;
+}

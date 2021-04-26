@@ -1,0 +1,62 @@
+.portatil1{
+
+    margin: 3%;
+    border-radius:5px;
+    border: 2px solid black;
+    width:20%;
+    height:250px;
+    background-size: cover;
+    float: left; 
+    margin: 50px 0px 10% 10%;
+    position: relative;
+
+}
+
+.portatil1 strong{
+    color: #e33255; 
+    text-align: left;
+    text-decoration: solid;
+    position: relative;
+    font-family:monospace;
+    font-size: 16px;
+
+
+}
+
+.portatil1 button{
+    border-radius: 200px;
+    background-color: beige;
+    width: 80%;
+    border: 3px solid #e33255;
+    margin-left: 10%;    
+    margin-top: 2.4%;
+    text-decoration: black;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    font-family:monospace;
+
+}
+
+.portatil1 button:hover{
+
+    background-color:#e33255;
+    border: 3px solid black;
+    color: white;
+    display: inline-block;
+
+
+    
+}
+
+#p1  {
+    border-bottom: 2px solid black;
+    width:100%;
+    background-size: cover;
+    float: left; 
+}
+
+
+
+
+
