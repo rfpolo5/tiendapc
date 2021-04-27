@@ -36,14 +36,14 @@
 				<a href="#inicio" id="text1">INICIO</a>
 				<a href="#portatiles" id="text2">PORTATILES</a>
 				<a href="#telefonos" id="text3">TELEFONOS</a>
-				<a href="#relojes" id="text4">RELOJES</a>
+				<a href="#relojes" id="text4">TELEVISORES</a>
 				<a href="#audio" id="text5">AUDIO</a>
 			</div>
 			<div class="listamenu">
 				<ul class="nav">
 					<li><a href="">PRODUCTO</a>
 						<ul class="desplegable">
-							<li><a href="">CONSULTA  </a></li>
+							<li><a href="">	CREAR  </a></li>
 							<li><a href=""> CONSULTA </a></li>
 						</ul>
 					</li>
